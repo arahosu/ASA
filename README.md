@@ -41,7 +41,7 @@ $ python agent_rnd.py
 |2     | Add lstm input to network                                          | Yes |
 |3     | Add sharpe ratio as the models reward                              |     |
 |4     | Integrate Advantage Model                                          |     |
-|5     | Integrate Critic Model                                             |     |
+|5     | Integrate Critic Model                                             | Yes |
 |6     | Add multiple training agents                                       |     |
 |7     | Train on exit with random entry (learn to exit)                    | WIP |
 |8     | Train on a batch of trades (learn to maximise over several trades) |     |
